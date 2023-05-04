@@ -1,5 +1,5 @@
 ### About✌️ 
-I've been working as a Software Engineer for about 6.5 years, focused on the Infrastructure Skill, SRE and Platform Engineering, I've been working with embedded systems for about 4 years, passing through UOL, Picpay and Sumup, I've been part of teams with significant technical deliveries and with big impacts for the company! If you want to talk, I'm more active on twitter or directly via email. :grinning:
+I've been working as a Software Engineer for about 6.5 years, focused on the Infrastructure Skill, SRE and Platform Engineering, Working with embedded systems for about 4 years, passing through UOL, Picpay and Sumup, I've been part of teams with significant technical deliveries and with big impacts for the company! If you want to talk, I'm more active on twitter or directly via email. :grinning:
 ### My Talks & Education🎗️
 - AWS Summit São Paulo 2022: Support on Real-time data on AWS, [PicPay Case](https://youtu.be/mcL3I4pQO5k)
 - Technical Writer in [SRE Teams #12: PicPay](https://open.substack.com/pub/sreteams/p/picpay?utm_campaign=post&utm_medium=web)
