@@ -1,1 +1,1 @@
-Software @ PicPay
+software
