@@ -1,2 +1,2 @@
 ### About✌️ 
-Software @ @PicPay
+Software @ PicPay
