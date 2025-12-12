@@ -1,2 +1,2 @@
 ### About✌️ 
-I've been working as a Software Engineer for about 6.5 years, focused on the Infrastructure Skill, SRE and Platform Engineering, Working with embedded systems for about 4 years, passing through UOL, Picpay and Sumup, I've been part of teams with significant technical deliveries and with big impacts for the company! If you want to talk, I'm more active on twitter or directly via email. :grinning:
+Software @ @PicPay
