@@ -1,1 +1,1 @@
-software @ PicPay
+swe @ PicPay
